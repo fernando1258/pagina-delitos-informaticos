@@ -1,0 +1,44 @@
+body{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkgrpKQGudZWSS-pz0CCic8hu-L3Y2FxeLMQ&usqp=CAU);
+    color:white;
+}
+h4{
+    color:rgb(27, 106, 180);
+    font-size:30px ;
+}
+p{
+    font-size:30px;
+}
+font{
+    color:green;
+    font-size:40px;
+}
+p a{
+    font-size:40px;
+}
+i{
+    width:50%;
+    height:120px;
+    background-color: rgb(156, 104, 6);
+    margin:20px 100px;
+    padding:30px;
+    border:10px dotted black;
+    font-weight:normal ;
+    text-align: center;
+    font-size:25px;
+    font-style: oblique;
+}
+a{
+    font-size:30px ;
+    color:gold;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline ;
+    font-size:50px;
+}
+img{
+    width:400px ;
+    height:400px ;
+    margin: auto;
+}
